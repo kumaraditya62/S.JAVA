@@ -12,5 +12,5 @@ Scanner s= new Scanner(System.in);
         }
 System.out.println("factorial="+fact);
     }
-    s.close();
+   s.close();
 }
